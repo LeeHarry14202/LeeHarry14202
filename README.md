@@ -1,6 +1,6 @@
 # Hi, I'm Harry 👋
 
-Database Administrator with 4+ years of experience in performance tuning, automation, and cloud databases.
+Database Administrator with 4 years of experience in performance tuning, automation, and cloud databases.
 
 ## 🔧 What I Do
 - Improve query performance & indexing strategies
